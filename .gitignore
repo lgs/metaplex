@@ -19,6 +19,9 @@ yarn-error.log*
 !js/packages/metaplex/src/utils/globals.css
 target
 .env
+**/.env
+js/packages/web/.env
+js/packages/web/.env.production
 .vscode
 bin
 config.json
